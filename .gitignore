@@ -1,3 +1,4 @@
 # Exclude all labs and projects directories as they might be git repos
 **/labs
 **/projects
+**/docs 
