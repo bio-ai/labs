@@ -5,7 +5,7 @@ July 26, 2019
 
 notes from Udemy Course:
 https://www.udemy.com/elegant-automation-frameworks-with-python-and-pytest/
-Stefan's certificate of completion: ![](docs/UC-6R9WOG3Q)
+Stefan's certificate of completion: ![](img/StefanIanta-Pytest-framework-Udemy.jpeg)
 
 
 ### pytest.ini
