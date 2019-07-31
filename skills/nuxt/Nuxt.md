@@ -12,3 +12,8 @@ https://www.udemy.com/nuxtjs-vuejs-on-steroids/
 
 ## Creating a Nuxt App 
 
+- CLI Command to create nuxt app: npx create-nuxt-app <app-name>
+```bash
+npx create-nuxt-app bio-ai-app
+```
+
