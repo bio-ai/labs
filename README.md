@@ -6,3 +6,7 @@ Keep your private stuff filtered through .gitignore.
 Enjoy evolutionary coding!
 
 Ianta Labs Team
+
+-------
+
+## ToDo - Forking and Sharing instructions
