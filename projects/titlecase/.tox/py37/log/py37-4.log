@@ -1,0 +1,15 @@
+action: py37, msg: installpkg
+cwd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase
+cmd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase/.tox/py37/bin/python -m pip install --no-deps -U .tox/.tmp/package/1/titlecase-1.0.1.zip
+Processing ./.tox/.tmp/package/1/titlecase-1.0.1.zip
+Building wheels for collected packages: titlecase
+  Building wheel for titlecase (setup.py): started
+  Building wheel for titlecase (setup.py): finished with status 'done'
+  Created wheel for titlecase: filename=titlecase-1.0.1-cp37-none-any.whl size=2223 sha256=b3972846d464177c142f7a0b24bd4e886e1715e702d22c6495d4b2f9bfc3db40
+  Stored in directory: /Users/stefanianta/Library/Caches/pip/wheels/af/0c/77/fe3cb6de711721397b7037b2ca74bfcee4aac4002c1da052c9
+Successfully built titlecase
+Installing collected packages: titlecase
+  Found existing installation: titlecase 1.0.1
+    Not uninstalling titlecase at /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase, outside environment /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase/.tox/py37/bin/..
+    Can't uninstall 'titlecase'. No files were found to uninstall.
+Successfully installed titlecase-1.0.1

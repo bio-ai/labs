@@ -1,0 +1,10 @@
+README.md
+setup.py
+tests/__init__.py
+tests/test_titlecase.py
+titlecase/__init__.py
+titlecase/titlecase.py
+titlecase.egg-info/PKG-INFO
+titlecase.egg-info/SOURCES.txt
+titlecase.egg-info/dependency_links.txt
+titlecase.egg-info/top_level.txt

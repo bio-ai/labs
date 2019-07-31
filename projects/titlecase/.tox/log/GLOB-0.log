@@ -1,0 +1,45 @@
+action: GLOB, msg: packaging
+cwd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase
+cmd: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7 setup.py sdist --formats=zip --dist-dir .tox/dist
+running sdist
+running egg_info
+writing titlecase.egg-info/PKG-INFO
+writing dependency_links to titlecase.egg-info/dependency_links.txt
+writing top-level names to titlecase.egg-info/top_level.txt
+reading manifest file 'titlecase.egg-info/SOURCES.txt'
+writing manifest file 'titlecase.egg-info/SOURCES.txt'
+running check
+creating titlecase-1.0.1
+creating titlecase-1.0.1/tests
+creating titlecase-1.0.1/titlecase
+creating titlecase-1.0.1/titlecase.egg-info
+copying files to titlecase-1.0.1...
+copying README.md -> titlecase-1.0.1
+copying setup.py -> titlecase-1.0.1
+copying tests/__init__.py -> titlecase-1.0.1/tests
+copying tests/test_titlecase.py -> titlecase-1.0.1/tests
+copying titlecase/__init__.py -> titlecase-1.0.1/titlecase
+copying titlecase/titlecase.py -> titlecase-1.0.1/titlecase
+copying titlecase.egg-info/PKG-INFO -> titlecase-1.0.1/titlecase.egg-info
+copying titlecase.egg-info/SOURCES.txt -> titlecase-1.0.1/titlecase.egg-info
+copying titlecase.egg-info/dependency_links.txt -> titlecase-1.0.1/titlecase.egg-info
+copying titlecase.egg-info/top_level.txt -> titlecase-1.0.1/titlecase.egg-info
+Writing titlecase-1.0.1/setup.cfg
+creating '.tox/dist/titlecase-1.0.1.zip' and adding 'titlecase-1.0.1' to it
+adding 'titlecase-1.0.1'
+adding 'titlecase-1.0.1/tests'
+adding 'titlecase-1.0.1/titlecase.egg-info'
+adding 'titlecase-1.0.1/titlecase'
+adding 'titlecase-1.0.1/PKG-INFO'
+adding 'titlecase-1.0.1/README.md'
+adding 'titlecase-1.0.1/setup.py'
+adding 'titlecase-1.0.1/setup.cfg'
+adding 'titlecase-1.0.1/tests/__init__.py'
+adding 'titlecase-1.0.1/tests/test_titlecase.py'
+adding 'titlecase-1.0.1/titlecase.egg-info/PKG-INFO'
+adding 'titlecase-1.0.1/titlecase.egg-info/SOURCES.txt'
+adding 'titlecase-1.0.1/titlecase.egg-info/top_level.txt'
+adding 'titlecase-1.0.1/titlecase.egg-info/dependency_links.txt'
+adding 'titlecase-1.0.1/titlecase/titlecase.py'
+adding 'titlecase-1.0.1/titlecase/__init__.py'
+removing 'titlecase-1.0.1' (and everything under it)

@@ -1,0 +1,29 @@
+action: py37, msg: getenv
+cwd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase
+cmd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase/.tox/py37/bin/python -m pip install pytest
+Collecting pytest
+  Using cached https://files.pythonhosted.org/packages/69/1d/2430053122a3c6106f7fd1ff0bc68eb73e27db8f951db70fcd942da52c7b/pytest-5.0.1-py3-none-any.whl
+Collecting more-itertools>=4.0.0 (from pytest)
+  Using cached https://files.pythonhosted.org/packages/45/dc/3241eef99eb45f1def35cf93af35d1cf9ef4c0991792583b8f33ea41b092/more_itertools-7.2.0-py3-none-any.whl
+Collecting wcwidth (from pytest)
+  Using cached https://files.pythonhosted.org/packages/7e/9f/526a6947247599b084ee5232e4f9190a38f398d7300d866af3ab571a5bfe/wcwidth-0.1.7-py2.py3-none-any.whl
+Collecting packaging (from pytest)
+  Downloading https://files.pythonhosted.org/packages/ec/22/630ac83e8f8a9566c4f88038447ed9e16e6f10582767a01f31c769d9a71e/packaging-19.1-py2.py3-none-any.whl
+Collecting atomicwrites>=1.0 (from pytest)
+  Using cached https://files.pythonhosted.org/packages/52/90/6155aa926f43f2b2a22b01be7241be3bfd1ceaf7d0b3267213e8127d41f4/atomicwrites-1.3.0-py2.py3-none-any.whl
+Collecting pluggy<1.0,>=0.12 (from pytest)
+  Using cached https://files.pythonhosted.org/packages/06/ee/de89e0582276e3551df3110088bf20844de2b0e7df2748406876cc78e021/pluggy-0.12.0-py2.py3-none-any.whl
+Collecting attrs>=17.4.0 (from pytest)
+  Using cached https://files.pythonhosted.org/packages/23/96/d828354fa2dbdf216eaa7b7de0db692f12c234f7ef888cc14980ef40d1d2/attrs-19.1.0-py2.py3-none-any.whl
+Collecting py>=1.5.0 (from pytest)
+  Using cached https://files.pythonhosted.org/packages/76/bc/394ad449851729244a97857ee14d7cba61ddb268dce3db538ba2f2ba1f0f/py-1.8.0-py2.py3-none-any.whl
+Collecting importlib-metadata>=0.12 (from pytest)
+  Downloading https://files.pythonhosted.org/packages/ad/aa/25fcbded2ab4ed4ff3071d1e000cd4f8f9c65653d2d7157dd105a8e81d42/importlib_metadata-0.19-py2.py3-none-any.whl
+Collecting six (from packaging->pytest)
+  Using cached https://files.pythonhosted.org/packages/73/fb/00a976f728d0d1fecfe898238ce23f502a721c0ac0ecfedb80e0d88c64e9/six-1.12.0-py2.py3-none-any.whl
+Collecting pyparsing>=2.0.2 (from packaging->pytest)
+  Downloading https://files.pythonhosted.org/packages/11/fa/0160cd525c62d7abd076a070ff02b2b94de589f1a9789774f17d7c54058e/pyparsing-2.4.2-py2.py3-none-any.whl (65kB)
+Collecting zipp>=0.5 (from importlib-metadata>=0.12->pytest)
+  Using cached https://files.pythonhosted.org/packages/da/bd/1a5fdf15aa44231fd09f63ecf175b60f057ae37ec65b343bb009364923f3/zipp-0.5.2-py2.py3-none-any.whl
+Installing collected packages: more-itertools, wcwidth, six, pyparsing, attrs, packaging, atomicwrites, zipp, importlib-metadata, pluggy, py, pytest
+Successfully installed atomicwrites-1.3.0 attrs-19.1.0 importlib-metadata-0.19 more-itertools-7.2.0 packaging-19.1 pluggy-0.12.0 py-1.8.0 pyparsing-2.4.2 pytest-5.0.1 six-1.12.0 wcwidth-0.1.7 zipp-0.5.2

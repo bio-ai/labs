@@ -1,0 +1,16 @@
+action: py37, msg: envreport
+cwd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase
+cmd: /Users/stefanianta/workspace/1-labs/lab-notes/projects/titlecase/.tox/py37/bin/python -m pip freeze
+atomicwrites==1.3.0
+attrs==19.1.0
+importlib-metadata==0.19
+more-itertools==7.2.0
+packaging==19.1
+pluggy==0.12.0
+py==1.8.0
+pyparsing==2.4.2
+pytest==5.0.1
+six==1.12.0
+titlecase==1.0.1
+wcwidth==0.1.7
+zipp==0.5.2
