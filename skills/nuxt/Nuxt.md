@@ -28,4 +28,5 @@ https://github.com/hr-labs/skills-nuxt-create-app
     <h1>A single user, with ID: {{ $route.params.id }}</h1>
 </template>
 ```
-
+- or using a dynamic folder name in pages eg: _id and ensure there is an index.vue in the new folder
+- the dynamic folder approach is needed for adding more files and/or further dynamic folders
