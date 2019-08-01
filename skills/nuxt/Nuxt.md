@@ -22,5 +22,10 @@ https://github.com/hr-labs/skills-nuxt-create-app
 ## Pages, Routing and Views
 
 - From folders to routes: create files or folders in the page dir and nuxt will create automatically the equivalent routes/components
-- 
+- Route with dynamic path via _file.vue - dynamic reference with {{ $route.params.id }}
+```vue
+<template>
+    <h1>A single user, with ID: {{ $route.params.id }}</h1>
+</template>
+```
 
