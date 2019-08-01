@@ -16,4 +16,8 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 ```bash
 sudo npm install -g @vue/cli
 ```
+- create new app project with
+```bash
+vue create new-app
+```
 
