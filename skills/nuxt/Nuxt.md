@@ -17,3 +17,8 @@ https://www.udemy.com/nuxtjs-vuejs-on-steroids/
 npx create-nuxt-app app-name
 ```
 
+## Pages, Routing and Views
+
+- From folders to routes: create files or folders in the page dir and nuxt will create automatically the equivalent routes/components
+- 
+
