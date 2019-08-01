@@ -16,6 +16,8 @@ https://www.udemy.com/nuxtjs-vuejs-on-steroids/
 ```bash
 npx create-nuxt-app app-name
 ```
+local git repo in the labs dir linked to github repo:
+https://github.com/hr-labs/skills-nuxt-create-app
 
 ## Pages, Routing and Views
 
