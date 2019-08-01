@@ -30,3 +30,5 @@ https://github.com/hr-labs/skills-nuxt-create-app
 ```
 - or using a dynamic folder name in pages eg: _id and ensure there is an index.vue in the new folder
 - the dynamic folder approach is needed for adding more files and/or further dynamic folders
+- ToDo: Write some Sample templates (rDNA style) in spreadsheets to auto generate/execute these nuxt skills/ops dynamically !!!
+
