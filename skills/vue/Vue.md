@@ -8,7 +8,8 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 
 ## Animations and Transitions
 
-
+- add transition class eg: fade
+- then vue will attach fade-enter, fade-enter-active, fade-leave, fade-leave-active
 
 ## Vue CLI 3
 
