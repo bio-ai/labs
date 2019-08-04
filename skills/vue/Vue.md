@@ -15,6 +15,8 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 
 - transition between multiple elements with: mode="out-in" or mode="in-out"
 
+- transition JS hooks:
+![](img/screen.png)
 
 
 ## Vue CLI 3
