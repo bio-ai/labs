@@ -11,7 +11,11 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 - add transition class eg: fade
 - then vue will attach fade-enter, fade-enter-active, fade-leave, fade-leave-active
 
-- initial animation with appear
+- initial animation with: appear
+
+- transition between multiple elements with: mode="out-in" or mode="in-out"
+
+
 
 ## Vue CLI 3
 
