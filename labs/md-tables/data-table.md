@@ -15,8 +15,3 @@
 |Text A|__Text B__| *Text C*|Text D|
 
 - without outer pipes
-
-Row A   |Row B   |Row C   |Row D   
--------:|:-------|:------:|-----
-Text A|__Text B__| *Text C*|Text D
-Text A|__Text B__| *Text C*|Text D
