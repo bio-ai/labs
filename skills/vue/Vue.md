@@ -81,7 +81,7 @@ Official Docs - Computed Properties & Watchers: http://vuejs.org/guide/computed.
 Official Docs - Class & Style Binding: http://vuejs.org/guide/class-and-style.html
 
 
-## Conditionals v-if, v-show and Rrendering lists v-for
+## Conditionals v-if, v-show and Rendering lists v-for
 
 - v-else-if - New in 2.1.0+
 - Similar to v-else, a v-else-if element must immediately follow a v-if or a v-else-if element.
@@ -99,6 +99,15 @@ Official Docs - Class & Style Binding: http://vuejs.org/guide/class-and-style.ht
   Not A/B/C
 </div>
 ```
+### Links for vue Conditionals and list rendering
+JSFiddle:
+
+Conditionals (v-if and v-show): https://jsfiddle.net/smax/hoc719j5/
+Lists: https://jsfiddle.net/smax/o7uy2g0u/
+Useful Links:
+
+Official Docs - Conditionals: http://vuejs.org/guide/conditional.html
+Official Docs - Lists: http://vuejs.org/guide/list.html
 
 ## Animations and Transitions
 
