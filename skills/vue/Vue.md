@@ -61,6 +61,7 @@ https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941028#overview
 ```
 
 - Listening to Keyboard Events
+https://vuejs.org/v2/guide/events.html#Key-Modifiers
 https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941032#overview
 ```vue
 <input type="text" v-on:keyup.enter="alertMe">
