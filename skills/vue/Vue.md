@@ -68,6 +68,19 @@ https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941032#overview
 ```
 - also works with chaining: v-on:keyup.enter.space="alertMe"
 
+### Vue links / Interacting with the DOM 
+
+Official Docs - Getting Started: http://vuejs.org/guide/
+
+Official Docs - Template Syntax: http://vuejs.org/guide/syntax.html
+
+Official Docs - Events: http://vuejs.org/guide/events.html
+
+Official Docs - Computed Properties & Watchers: http://vuejs.org/guide/computed.html
+
+Official Docs - Class & Style Binding: http://vuejs.org/guide/class-and-style.html
+
+
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
 - v-else-if - New in 2.1.0+
