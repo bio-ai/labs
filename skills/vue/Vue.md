@@ -66,6 +66,7 @@ https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941032#overview
 ```vue
 <input type="text" v-on:keyup.enter="alertMe">
 ```
+- also works with chaining: v-on:keyup.enter.space="alertMe"
 
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
