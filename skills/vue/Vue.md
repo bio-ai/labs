@@ -55,6 +55,7 @@ methods: {
 - Modifying  an Event with Event Modifiers: v-on:mousemove.stop=""
 https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941028#overview
 - also prevent default modifier, event.stopPropagation()
+- also works as chained: v-on:mousemove.stop.prevent=""
 ```vue
 <span v-on:mousemove.stop="">DEAD SPOT</span>
 ```
