@@ -13,6 +13,11 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 <h1 v-once>{{ title }}</h1>
 ```
 
+- v-html - to render html code
+```vue
+<p v-html="finishedLink"></p>
+```
+
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
 - v-else-if - New in 2.1.0+
