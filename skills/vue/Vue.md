@@ -20,7 +20,25 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 
 - v-on:click="methodToCallOnClick"
 
+- Event object holds the event props: eg. onClick holds the coordinates where the click happened
+```vue
+<p v-on:mousemove="updateCoordinates">{{ x }} / {{ y }}</p>
 
+...
+data: {
+    x: 0,
+    y: 0
+},
+methods: {
+    updateCoordiantes: function(event) {
+        this.x = event.clientX;
+        this.y = event.clientY;
+    }
+}
+...
+```
+
+-
 
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
