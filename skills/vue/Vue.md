@@ -13,6 +13,25 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 <h1 v-once>{{ title }}</h1>
 ```
 
+## Conditionals v-if, v-show and Rrendering lists v-for
+
+- v-else-if - New in 2.1.0+
+- Similar to v-else, a v-else-if element must immediately follow a v-if or a v-else-if element.
+```vue
+<div v-if="type === 'A'">
+  A
+</div>
+<div v-else-if="type === 'B'">
+  B
+</div>
+<div v-else-if="type === 'C'">
+  C
+</div>
+<div v-else>
+  Not A/B/C
+</div>
+```
+
 ## Animations and Transitions
 
 - add transition class eg: fade
