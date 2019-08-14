@@ -39,6 +39,7 @@ methods: {
 ```
 
 ### ToDo: To read the content of the current cell and insert into formula string
+### ToDo: Recalculate current cell formulas/API, etc on click
 - Passing own and event arguments:
 
 ```vue
