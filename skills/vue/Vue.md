@@ -53,6 +53,7 @@ methods: {
 ```
 
 - Modifying  an Event with Event Modifiers: v-on:mousemove.stop=""
+https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941028#overview
 ```vue
 <span v-on:mousemove.stop="">DEAD SPOT</span>
 ```
