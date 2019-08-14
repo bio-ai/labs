@@ -6,6 +6,13 @@ Aug 1, 2019
 notes from Udemy Course:
 https://www.udemy.com/vuejs-2-the-complete-guide/
 
+## VueJS interacting with the DOM
+
+- v-once - just one rendering
+```vue
+<h1 v-once>{{ title }}</h1>
+```
+
 ## Animations and Transitions
 
 - add transition class eg: fade
