@@ -18,6 +18,10 @@ https://www.udemy.com/vuejs-2-the-complete-guide/
 <p v-html="finishedLink"></p>
 ```
 
+- v-on:click="methodToCallOnClick"
+
+
+
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
 - v-else-if - New in 2.1.0+
