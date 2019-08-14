@@ -38,7 +38,19 @@ methods: {
 ...
 ```
 
--
+### ToDo: To read the content of the current cell and insert into formula string
+- Passing own and event arguments:
+
+```vue
+<button v-on:click="increase(2, $event)"></button>
+
+methods: {
+    increase: function(step, event) {
+        this.counter += step;
+    }
+}
+
+```
 
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
