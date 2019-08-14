@@ -60,6 +60,11 @@ https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941028#overview
 <span v-on:mousemove.stop="">DEAD SPOT</span>
 ```
 
+- Listening to Keyboard Events
+https://www.udemy.com/vuejs-2-the-complete-guide/learn/lecture/5941032#overview
+```vue
+<input type="text" v-on:keyup.enter="alertMe">
+```
 
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
