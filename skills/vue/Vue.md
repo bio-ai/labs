@@ -50,8 +50,13 @@ methods: {
         this.counter += step;
     }
 }
-
 ```
+
+- Modifying  an Event with Event Modifiers: v-on:mousemove.stop=""
+```vue
+<span v-on:mousemove.stop="">DEAD SPOT</span>
+```
+
 
 ## Conditionals v-if, v-show and Rrendering lists v-for
 
